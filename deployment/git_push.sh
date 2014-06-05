@@ -17,7 +17,7 @@ REPO[2]="domain_2 1"
 
 REALREPO=
 UPDATEUNM=
-IDCMNGTSERVER=42.62.78.192
+IDCMNGTSERVER=
 IDCMNGTSERVERPORT=22
 REPONUM=
 GITPUSH=
@@ -33,7 +33,7 @@ HOST[6]=server ip
 
 #define the host groups by the second parameters of ${REPO[$i]}
 
-##cloud for pvz2ios
+##configure list
 configure_1(){
         WEB[1]=${HOST[1]}
         WEB[2]=${HOST[2]}
